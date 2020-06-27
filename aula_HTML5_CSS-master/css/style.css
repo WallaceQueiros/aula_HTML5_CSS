@@ -1,0 +1,28 @@
+body {
+    background: #EAC7CF;
+    margin-left: 30px;
+    
+}
+
+h1{
+
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_padrao{
+
+ margin-bottom: 15px;
+ width: 300px;
+
+}
+    
+
